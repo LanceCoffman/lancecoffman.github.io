@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E9D4BC02-CB0D-4BB5-92FB-47EB2B4A11FE}"
+	ProjectSection(SolutionItems) = preProject
+		..\.htaccess = ..\.htaccess
+		..\favicon.ico = ..\favicon.ico
+		..\index.html = ..\index.html
+		..\ReadMe.txt = ..\ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
